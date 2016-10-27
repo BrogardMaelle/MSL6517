@@ -21,12 +21,14 @@ Dates de rendu :
 ### API (Application Programming Interface)
 
 ### Base de données
+Maëlle BROGARD
 
 ### Catalogage
 
 ### Classification
 
 ### CCWA (Categories for the Description of Works of Art)
+Maëlle BROGARD
 
 ### CCO (Cataloguing Cultural Objects)
 Ophélie Clermont
@@ -40,7 +42,6 @@ Ophélie Clermont
 ### Dictionnaires de données du RCIP
 
 ### Dublin Core
-Jean-Michel Godbout
 
 ### EDM (Europeana Data Model)
 
@@ -66,7 +67,7 @@ Ophélie Clermont
 ### Mapping
 
 ### Métadonnées
-Jean-Michel Godbout
+Maëlle BROGARD
 
 ### Modèle documentaire ou Modèle conceptuel de données
 
@@ -126,6 +127,5 @@ Ophélie Clermont
 ### Vocabulaire contrôlé
 
 ### Web sémantique
-Jean-Michel Godbout
 
 ### XMP (Extensible Metadata Platform)
