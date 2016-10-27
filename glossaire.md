@@ -28,7 +28,7 @@ Dates de rendu :
 
 ### CCWA (Categories for the Description of Works of Art)
 
-### CCO (Cataloguing Cultural Objects)
+### CCO (Cataloguing Cultural Objects) Maëlle BROGARD
 
 ### Champ
 
@@ -48,7 +48,7 @@ Dates de rendu :
 
 ### Fichier d’autorité
 
-### Folksonomie
+### Folksonomie Maëlle BROGARD
 
 ### Format (de métadonnées, d’un modèle documentaire)
 
@@ -62,7 +62,7 @@ Dates de rendu :
 
 ### Mapping
 
-### Métadonnées
+### Métadonnées Maëlle BROGARD
 
 ### Modèle documentaire ou Modèle conceptuel de données
 
