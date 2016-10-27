@@ -22,12 +22,14 @@ Dates de rendu :
 ### API (Application Programming Interface)
 
 ### Base de données
+Maëlle BROGARD
 
 ### Catalogage
 
 ### Classification
 
 ### CDWA (Categories for the Description of Works of Art)
+Maëlle BROGARD
 
 ### CCO (Cataloguing Cultural Objects)
 Ophélie Clermont
@@ -50,6 +52,7 @@ Jean-Michel Godbout
 ### Facette
 
 ### Fichier d’autorité
+Maëlle BROGARD
 
 ### Folksonomie
 Ophélie Clermont
