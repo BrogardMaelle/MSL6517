@@ -29,6 +29,7 @@ Dates de rendu :
 ### CCWA (Categories for the Description of Works of Art)
 
 ### CCO (Cataloguing Cultural Objects)
+Maëlle 
 
 ### Champ
 
@@ -49,6 +50,7 @@ Dates de rendu :
 ### Fichier d’autorité
 
 ### Folksonomie
+Maëlle
 
 ### Format (de métadonnées, d’un modèle documentaire)
 
@@ -63,6 +65,7 @@ Dates de rendu :
 ### Mapping
 
 ### Métadonnées
+Maëlle
 
 ### Modèle documentaire ou Modèle conceptuel de données
 
